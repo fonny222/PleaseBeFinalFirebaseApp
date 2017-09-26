@@ -1,0 +1,6 @@
+framework module Pods_PleaseBeFinalFirebaseAppUITests {
+  umbrella header "Pods-PleaseBeFinalFirebaseAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_PleaseBeFinalFirebaseApp {
+  umbrella header "Pods-PleaseBeFinalFirebaseApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
